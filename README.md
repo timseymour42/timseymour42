@@ -31,15 +31,6 @@
 
 ---
 
-#### Skills
-
-- **Programming**: Python, SQL, Typescript, Java, React, Kusto Query Language, Cypher
-- **Softwares**: VSCode, Jupyter Notebook, IntelliJ, MySQL, MSSQL Server, Google Cloud Platform, Neo4J, ChatGPT
-- **Statistics & ML**: Regression, Classification, Time Series, Tensorflow, XGBoost, Bayesian Optimization, GridSearch
-- **Visualization**: Tableau, Google Data Studio, Looker, Plotly, Plotly Express 
-
----
-
 📫 **Contact Me**
 - [LinkedIn](https://www.linkedin.com/in/timseymour42/)
 - [Twitter](https://twitter.com/timseymour421)
