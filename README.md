@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hello, I'm Tim Seymour 👋
 
-<!--
-**timseymour42/timseymour42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**: I recently graduated with a Bachelor of Science in Computer Science and Business from Northeastern University. During my time at school, I was the VP of Sports Business Innovation Network and a Data Analyst for the NU Baseball team.
 
-Here are some ideas to get you started:
+📚 **Relevant Courses**: Machine Learning, DeepLearning.AI, Database Design, Data Storage & Information Retrieval, Algorithms & Data, Object-Oriented Design, Discrete Structures, Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👨‍💻 **Currently Working Part-Time**: Data Scientist at Veolia, Boston, MA  
+🕵️‍♂️ **Actively Seeking**: Open to new full-time roles in Data Science or related fields  
+📊 **Previously**: Data Analyst at Wayfair, Boston, MA
+
+---
+
+#### Projects
+- 🏀 [ShotQuality Kaggle Competition]
+  - Skills: CNNs, GNNs, Ensembles
+  - Currently placed fourth and introduced OFFREB+, a novel rebounding statistic.
+  
+- ⚾ [MLB Build a Team Project]
+  - Skills: Python, Machine Learning, Database Design
+  - Achieved an average error of 4 in team win total prediction.
+
+- 🏀 [NBA Machine Learning Sports Betting]
+  - Skills: Python, GitHub, TDD
+  - Implemented Kelly Criterion feature.
+  
+- 🍺 [Beer Recommendation System]
+  - Skills: Python, SVD, Graph Analytics
+  - Developed a beer recommendation system in Python.
+
+---
+
+#### Skills
+
+- **Programming**: Python, SQL, Typescript, Java, React, Kusto Query Language, Cypher
+- **Softwares**: VSCode, Jupyter Notebook, IntelliJ, MySQL, MSSQL Server, Google Cloud Platform, Neo4J, ChatGPT
+- **Statistics & ML**: Regression, Classification, Time Series, Tensorflow, XGBoost, Bayesian Optimization, GridSearch
+- **Visualization**: Tableau, Google Data Studio, Looker, Plotly, Plotly Express 
+
+---
+
+📫 **Contact Me**
+- [LinkedIn](https://www.linkedin.com/in/timseymour42/)
+- [Twitter](https://twitter.com/timseymour421)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=timseymour42&show_icons=true&count_private=true)
