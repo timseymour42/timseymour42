@@ -13,9 +13,9 @@
 ---
 
 #### Projects
-- 🏀 ShotQuality Kaggle Competition (CNNs, GNNs, Ensembles): Currently placed fourth and introduced OFFREB+, a rebounding statistic.
+- 🏀 ShotQuality Kaggle Competition (CNNs, GNNs, Ensembles): Currently placed 4th and introduced OFFREB+, a rebounding statistic.
   
-- ⚾ MLB Build a Team Project (Python, Machine Learning, Database Design): Achieved an average error of 4 in team win total prediction.
+- ⚾ MLB Build a Team Project (Python, ML, DB Design): Designed web app to project win totals for custom teams.
 
 - 🏀 NBA Machine Learning Sports Betting (Python, GitHub, TDD): Implemented Kelly Criterion feature.
   
