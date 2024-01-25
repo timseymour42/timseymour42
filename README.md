@@ -10,6 +10,7 @@
 ---
 
 👨‍💻 **Current Role**: Data Scientist at Fanduel, Jersey City, NJ
+
 📊 **Previously**: Data Scientist at Veolia, Data Analyst at Wayfair, Boston, MA
 
 ---
