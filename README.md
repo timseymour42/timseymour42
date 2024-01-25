@@ -9,9 +9,8 @@
 
 ---
 
-👨‍💻 **Currently Working Part-Time**: Data Scientist at Veolia, Boston, MA  
-🕵️‍♂️ **Actively Seeking**: Open to new full-time roles in Data Science or related fields  
-📊 **Previously**: Data Analyst at Wayfair, Boston, MA
+👨‍💻 **Current Role**: Data Scientist at Fanduel, Jersey City, NJ
+📊 **Previously**: Data Scientist at Veolia, Data Analyst at Wayfair, Boston, MA
 
 ---
 
